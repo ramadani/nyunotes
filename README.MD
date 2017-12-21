@@ -1,4 +1,4 @@
 # NyuNotes
 
 ## React
-* [SASS loader in create-react-app project](201712/01-react-sass-loader.md)
+* [SASS loader in create-react-app project](2017/12/01-react-sass-loader.md)
